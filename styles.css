@@ -31,7 +31,7 @@ td{
 	 font-family: "Times New Roman", Times, serif;
 }
 
-table{
+.link-boxes{
 	display:flex;	
 	flex-direction: row;
 	 justify-content: space-between;
