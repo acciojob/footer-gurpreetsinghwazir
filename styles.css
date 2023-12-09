@@ -32,11 +32,13 @@ td{
 }
 
 table{
-	flex:display;
+	display:flex;	
 	flex-direction: row;
+	 justify-content: space-between;
 	text-align: left;
 	border: none;
-	padding: 20px;
+	border-spacing: 8px;
+	margin: 20px;
 	
 }
 .link-boxes {
